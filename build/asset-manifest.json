@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4edeaf69.css",
+    "main.js": "/static/js/main.529f5289.js",
+    "static/media/image.png": "/static/media/image.4eb1419166344ec54ae0.png",
+    "static/media/Carte de visite3.jpg": "/static/media/Carte de visite3.42247c9c53ae07478b5a.jpg",
+    "static/media/Carte de visite2.jpg": "/static/media/Carte de visite2.98288271f41d7dfc1716.jpg",
+    "static/media/Carte de visite.jpg": "/static/media/Carte de visite.3c0cede0bb4470a3c05b.jpg",
+    "static/media/jeunesse.jpg": "/static/media/jeunesse.638abc91a995247c65bc.jpg",
+    "static/media/Aqua_Romantica.jpg": "/static/media/Aqua_Romantica.ef3a4fc50061e3024f85.jpg",
+    "static/media/phone.png": "/static/media/phone.6256a1a5aac1cf38ea9a.png",
+    "static/media/nettoyants.jpg": "/static/media/nettoyants.abc09bdd6649f3a47617.jpg",
+    "static/media/démaquillants.jpg": "/static/media/démaquillants.0817a3d9ec7eb06bce09.jpg",
+    "static/media/SoinYeux-levre-cou.jpg": "/static/media/SoinYeux-levre-cou.2e71de6bc33b41ebb5ee.jpg",
+    "static/media/soin_main.jpg": "/static/media/soin_main.f7dc7187d0ec323d580f.jpg",
+    "static/media/Longévité&antiAge.jpg": "/static/media/Longévité&antiAge.5ff29d72e9f571061e4b.jpg",
+    "static/media/fermeté.jpg": "/static/media/fermeté.2c0d33c654a8c3664a6a.jpg",
+    "static/media/apaisement&douceur.jpg": "/static/media/apaisement&douceur.5079c17797990a232dee.jpg",
+    "static/media/pureté.jpg": "/static/media/pureté.e13f456e2d435c5f21f8.jpg",
+    "static/media/mains_vellours.jpg": "/static/media/mains_vellours.542b79c6fe78499d9c92.jpg",
+    "static/media/logo4.png": "/static/media/logo4.d6ab9f1a8b220e1710ee.png",
+    "static/media/hydration.jpg": "/static/media/hydration.3780815780277a1fe537.jpg",
+    "static/media/soinHomme.jpg": "/static/media/soinHomme.635bfbed8e718997ad52.jpg",
+    "static/media/teinture.jpg": "/static/media/teinture.efc8c0ba88465a0e8af0.jpg",
+    "static/media/nutrition.jpg": "/static/media/nutrition.8883b30152a77640e474.jpg",
+    "static/media/soin_visage.jpg": "/static/media/soin_visage.c8def3112443f43a3371.jpg",
+    "static/media/gommages.jpg": "/static/media/gommages.e8654648add47658fc1c.jpg",
+    "static/media/eclat.jpg": "/static/media/eclat.75d8ff98d0429ee84c26.jpg",
+    "static/media/main.jpg": "/static/media/main.110c0d714a6ce30e0b1c.jpg",
+    "static/media/present1.jpg": "/static/media/present1.6c52f9f232f721e96914.jpg",
+    "static/media/soin_corps.jpg": "/static/media/soin_corps.e9a7515020bf8c6fe156.jpg",
+    "index.html": "/index.html",
+    "main.4edeaf69.css.map": "/static/css/main.4edeaf69.css.map",
+    "main.529f5289.js.map": "/static/js/main.529f5289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4edeaf69.css",
+    "static/js/main.529f5289.js"
+  ]
+}
