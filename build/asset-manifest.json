@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4edeaf69.css",
-    "main.js": "/static/js/main.529f5289.js",
+    "main.js": "/static/js/main.ada8aba2.js",
     "static/media/image.png": "/static/media/image.4eb1419166344ec54ae0.png",
     "static/media/Carte de visite3.jpg": "/static/media/Carte de visite3.42247c9c53ae07478b5a.jpg",
     "static/media/Carte de visite2.jpg": "/static/media/Carte de visite2.98288271f41d7dfc1716.jpg",
@@ -31,10 +31,10 @@
     "static/media/soin_corps.jpg": "/static/media/soin_corps.e9a7515020bf8c6fe156.jpg",
     "index.html": "/index.html",
     "main.4edeaf69.css.map": "/static/css/main.4edeaf69.css.map",
-    "main.529f5289.js.map": "/static/js/main.529f5289.js.map"
+    "main.ada8aba2.js.map": "/static/js/main.ada8aba2.js.map"
   },
   "entrypoints": [
     "static/css/main.4edeaf69.css",
-    "static/js/main.529f5289.js"
+    "static/js/main.ada8aba2.js"
   ]
 }
