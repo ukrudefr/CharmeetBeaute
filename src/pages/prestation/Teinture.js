@@ -33,7 +33,7 @@ export default function Teinture() {
 						<td>17€</td>
 					</tr>
 					<tr>
-						<td>Teintures cils + sourcils</td>
+						<td>Teintures cils  sourcils</td>
 						<td>24€</td>
 					</tr>
 					<tr>
