@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.4edeaf69.css",
-    "main.js": "/static/js/main.ada8aba2.js",
+    "main.css": "/static/css/main.76f4059c.css",
+    "main.js": "/static/js/main.8405e49d.js",
     "static/media/image.png": "/static/media/image.4eb1419166344ec54ae0.png",
     "static/media/Carte de visite3.jpg": "/static/media/Carte de visite3.42247c9c53ae07478b5a.jpg",
     "static/media/Carte de visite2.jpg": "/static/media/Carte de visite2.98288271f41d7dfc1716.jpg",
     "static/media/Carte de visite.jpg": "/static/media/Carte de visite.3c0cede0bb4470a3c05b.jpg",
+    "static/media/Promo_Hiver_WEBSITE.jpg": "/static/media/Promo_Hiver_WEBSITE.a606d6442e0ac7dec4c9.jpg",
     "static/media/jeunesse.jpg": "/static/media/jeunesse.638abc91a995247c65bc.jpg",
     "static/media/Aqua_Romantica.jpg": "/static/media/Aqua_Romantica.ef3a4fc50061e3024f85.jpg",
     "static/media/phone.png": "/static/media/phone.6256a1a5aac1cf38ea9a.png",
@@ -30,11 +31,11 @@
     "static/media/present1.jpg": "/static/media/present1.6c52f9f232f721e96914.jpg",
     "static/media/soin_corps.jpg": "/static/media/soin_corps.e9a7515020bf8c6fe156.jpg",
     "index.html": "/index.html",
-    "main.4edeaf69.css.map": "/static/css/main.4edeaf69.css.map",
-    "main.ada8aba2.js.map": "/static/js/main.ada8aba2.js.map"
+    "main.76f4059c.css.map": "/static/css/main.76f4059c.css.map",
+    "main.8405e49d.js.map": "/static/js/main.8405e49d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4edeaf69.css",
-    "static/js/main.ada8aba2.js"
+    "static/css/main.76f4059c.css",
+    "static/js/main.8405e49d.js"
   ]
 }

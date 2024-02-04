@@ -231,8 +231,9 @@ h5 {
 h3 {
 	text-align: center;
 	font-family: 'Lexend', sans-serif;
-	color: #ffff;
+	color: #000;
 }
+
 
 /* Cards */
 .col-gift {
@@ -251,10 +252,10 @@ h6 {
 	padding: 10px;
 }
 
-.snowfall {
+/* .snowfall {
 	position: absolute;
 	top: 50px;
-}
+} */
 /* MEDIA */
 
 @media (max-width:884px) {
