@@ -6,7 +6,7 @@ import mail from '../img_beaute/mail_icon.png'
 
 export default function Contact() {
 
-	const phoneNumber = '+389726157';
+	const phoneNumber = '+33389726157';
 	const handlePhoneClick = () => {
 		console.log("phone number clicked")
 	}
