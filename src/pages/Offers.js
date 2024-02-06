@@ -15,8 +15,9 @@ export default function Offers() {
 		<Line/>
 		{/* <Snowfall className="snowfall"/> */}
 		<Row>
-		<Col><h3 style={{color: "#000", fontSize: "clamp(1.125rem, 0.875rem + 1.4286vw, 1.5rem)"}}>
-		SOINS de BEAUTÉ en Hiver</h3>
+		<Col>
+		{/* <h3 style={{color: "#000", fontSize: "clamp(1.125rem, 0.875rem + 1.4286vw, 1.5rem)"}}>
+		SOINS de BEAUTÉ en Hiver</h3> */}
 		<Image 
 		className="card"
 		src={offres4}
