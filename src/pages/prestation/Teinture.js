@@ -26,15 +26,15 @@ export default function Teinture() {
 				<tbody>
 					<tr>
 						<td>Teinture sourcils</td>
-						<td>12€</td>
+						<td>12,50€</td>
 					</tr>
 					<tr>
 						<td>Teinture cils</td>
-						<td>17€</td>
+						<td>17,50€</td>
 					</tr>
 					<tr>
 						<td>Teintures cils + sourcils</td>
-						<td>24€</td>
+						<td>26€</td>
 					</tr>
 					<tr>
 						<td>Décoloration du duvet lévres</td>
@@ -42,7 +42,7 @@ export default function Teinture() {
 					</tr>
 					<tr>
 						<td>Permanente des cils</td>
-						<td>47€</td>
+						<td>48€</td>
 					</tr>
 				</tbody>
 			</table>

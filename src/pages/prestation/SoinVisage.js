@@ -27,7 +27,7 @@ export default function SoinVisage() {
 				<tbody>
 					<tr>
 						<td>Nettoyage de peau moins de 20ans - <span>35 min</span></td>
-						<td>33€</td>
+						<td>35€</td>
 					</tr>
 					<tr>
 						<td>Soin équilibre purifiant - <span>45 min</span>
@@ -37,69 +37,66 @@ export default function SoinVisage() {
 					<tr>
 						<td>L'instant nature - <span>40 min</span>
 						<p>Soin naturel relaxant pour une peau éclatante</p></td>
-						<td>44€</td>
+						<td>45€</td>
 					</tr>
 					<tr>
 						<td>Voyage aux coeur de la nature - <span>60 min</span>
-						<p>Soin personnalisé aux huiles essentielles</p></td>
-						<td>60€</td>
+						<p>Soin relaxant personnalisé aux huiles essentielles</p></td>
+						<td>61€</td>
 					</tr>
 					<tr>
 						<td>Soin du moment - <span>60 min</span></td>
-						<td>63€</td>
+						<td>64€</td>
 					</tr>
 					<tr>
 						<td>Hydraclean - <span>30 min / 50 min</span>
 						<p>Soin nettoyant profond</p></td>
-						<td>38€/58€</td>
+						<td>40€/60€</td>
 					</tr>
 					<tr>
-						<td>Soin détoxygène - <span>60 min</span>
+						<td>Détoxygène - <span>60 min</span>
 						<p>Libère la peau des toxines et la réoxygène</p></td>
-						<td>75€</td>
+						<td>77€</td>
 					</tr>
 					<tr>
 						<td>Hydradermie* - <span>1h10 min</span>
 						<p>Soin profond personnalisé selon votre objectif beauté</p></td>
-						<td>81€</td>
+						<td>83€</td>
 					</tr>
 					<tr>
-						<td>Hydradermie avec âge logic* - <span>1h10 min</span>
+						<td>Hydradermie avec Âge logic* - <span>1h10 min</span>
 						<p>Peau matures à partir de 50 ans</p></td>
-						<td>86€</td>
+						<td>90€</td>
 					</tr>
 					<tr>
 						<td>Hydradermie Lift* - <span>40 min/60 min</span>
 						<p>Stimulation des muscles du visage pour un effet lifting immédiat</p></td>
-						<td>66€/96€</td>
+						<td>69€/99€</td>
 					</tr>
 					<tr>
 						<td>Lift Summum* - <span>1h10 min</span>
 						<p>Peau repulpée et liftée, le visage apparaît visiblement plus jeune</p></td>
-						<td>100€</td>
+						<td>103€</td>
 					</tr>
 					<tr>
-						<td>Hydra Peeling* Avec Hydra Ph - <span>1h10 min</span></td>
-						<td>100€</td>
+						<td>Hydra Peeling Avec Hydra pH* - <span>1h10 min</span></td>
+						<td>103€</td>
 					</tr>
 					<tr>
-						<td>Hydra Peeling* Avec Hydrabrasion - <span>1h10 min</span>
+						<td>Hydra Peeling Avec Hydrabrasion* - <span>1h10 min</span>
 						<p>Gomme les signes de l'âge, atténue les taches pigmentaires et<br/> apporte de l'éclat au teint.</p></td>
-						<td>90€</td>
+						<td>93€</td>
 					</tr>
 					<tr>
 						<td>Age Summum* - <span>1h10 min</span>
-						<p>Lisse les rides et ridules, atténue les taches pigmentaires.
+						<p>Lisse les rides et ridules, atténue les taches pigmentaireset<br/> apporte de l'éclat au teint.
 						<br/>Pour une peau plus raffermie.</p></td>
-						<td>103€</td>
+						<td>106€</td>
 					</tr>
 					<tr>
 						<td>Soni Eye Lift - <span>40 min</span>
 						<p>Atténue poches, cernes, rides et ridules</p></td>
-						<td>66€</td>
-					</tr>
-					<tr>
-						<td style={{textDecoration: "underline"}}>Forfait soin sur demande</td>
+						<td>68€</td>
 					</tr>
 					<tr>
 						<td><p>*Modelage des bras pendant la pose du masque.<br/>

@@ -25,7 +25,8 @@ export default function SoinCorps() {
 			<table>
 				<tbody>
 					<tr>
-						<td>Modelage dos pour enfant de 6 à 13 ans</td>
+						<td>Modelage dos pour enfant <br/>
+						de 6 à 13 ans</td>
 						<td>19€</td>
 					</tr>
 					<tr>
@@ -35,43 +36,43 @@ export default function SoinCorps() {
 					</tr>
 					<tr>
 						<td>Modelage dos relaxant - <span>25 min</span></td>
-						<td>38€</td>
+						<td>39€</td>
 					</tr>
 					<tr>
 						<td>Gommage corps Mirific - <span>30 min</span></td>
 						<td>45€</td>
 					</tr>
 					<tr>
-						<td>Modelage Relaxant Corps - <span>45 min</span>
+						<td>Modelage relaxant - <span>45 min</span>
 						<p>Modelage délassant et relaxant du corps</p></td>
-						<td>67€</td>
+						<td>68€</td>
 					</tr>
 					<tr>
-						<td>Soin Mirific corps - <span>60 min</span>
+						<td>Modelage Mirific - <span>60 min</span>
 						<p>Modelage corps relaxant aux 4 huiles précieuses</p></td>
-						<td>80€</td>
+						<td>82€</td>
 					</tr>
 					<tr>
-						<td>Soin Mirific avec gommage  - <span>1h30 min</span></td>
-						<td>123€</td>
+						<td>Modelage Mirific avec gommage  - <span>1h30 min</span></td>
+						<td>124€</td>
 					</tr>
 					<tr>
 						<td>Soin Rituel à la bougie - <span>50 min</span>
 						<p>Modelage relaxant corps à la cire de bougie</p></td>
-						<td>73€</td>
+						<td>76€</td>
 					</tr>
 					<tr>
 						<td>Modelage Japonais des pieds - <br/><span>35 min/55 min</span></td>
-						<td>40€/60€</td>
+						<td>41€/61€</td>
 					</tr>
 					<br/>
 					<tr>
 						<td style={{textDecoration: "underline"}}>Soin minceur :</td>
 					</tr>
 					<tr>
-						<td>Soin Slim Logic - <span>60 min</span>
-						<p>Modelage manuel anti-graisse, anti-eau <br/>+ enveloppement</p></td>
-						<td>75€</td>
+						<td>Slim Logic - <span>60 min</span>
+						<p>Modelage manuel + enveloppement anti-graisse, anti-eau </p></td>
+						<td>77€</td>
 					</tr>
 				</tbody>
 			</table>

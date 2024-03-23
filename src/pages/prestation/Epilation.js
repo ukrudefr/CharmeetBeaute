@@ -26,11 +26,11 @@ export default function Epilation() {
 				<tbody>
 					<tr>
 						<td>Sourcils ou lévres ou menton</td>
-						<td>9,50€</td>
+						<td>10€</td>
 					</tr>
 					<tr>
 						<td>Visage complet</td>
-						<td>25€</td>
+						<td>26€</td>
 					</tr>
 					<tr>
 						<td>Nez ou oreilles</td>
@@ -38,43 +38,43 @@ export default function Epilation() {
 					</tr>
 					<tr>
 						<td>1/2 jambes ou cuisses</td>
-						<td>16€</td>
+						<td>17€</td>
 					</tr>
 					<tr>
 						<td>3/4 jambes</td>
-						<td>27€</td>
+						<td>27,50€</td>
 					</tr>
 					<tr>
 						<td>Jambes complètes + fesses</td>
-						<td>30€</td>
+						<td>31€</td>
 					</tr>
 					<tr>
-						<td>Avant bras</td>
+						<td>Avants bras</td>
 						<td>14€</td>
 					</tr>
 					<tr>
-						<td>Bras complet</td>
+						<td>Bras complets</td>
 						<td>17€</td>
 					</tr>
 					<tr>
 						<td>Maillot simple ou aisselles</td>
-						<td>11€</td>
+						<td>11,50€</td>
 					</tr>
 					<tr>
 						<td>Maillot échancré</td>
-						<td>14€</td>
+						<td>14,50€</td>
 					</tr>
 					<tr>
 						<td>Maillot string</td>
-						<td>18€</td>
+						<td>18,50€</td>
 					</tr>
 					<tr>
 						<td>Maillot semi-intégral</td>
-						<td>21€</td>
+						<td>21,50€</td>
 					</tr>
 					<tr>
 						<td>Maillot intégral</td>
-						<td>23€</td>
+						<td>23,50€</td>
 					</tr>
 				</tbody>
 			</table>
@@ -84,47 +84,43 @@ export default function Epilation() {
 				<tbody>
 					<tr>
 						<td> Sourcils + lèvres ou menton</td>
-						<td>17,50€</td>
+						<td>18€</td>
 					</tr>
 					<tr>
 						<td>Sourcils + lèvres + menton</td>
-						<td>22€</td>
+						<td>23€</td>
 					</tr>
 					<tr>
 						<td>Maillot simple + aisselles</td>
-						<td>19€</td>
+						<td>20€</td>
 					</tr>
 					<tr>
 						<td>Maillot string + aisselles</td>
-						<td>27,50€</td>
+						<td>28€</td>
 					</tr>
 					<tr>
 						<td>Maillot intégral + aisselles</td>
-						<td>31€</td>
+						<td>32€</td>
 					</tr>
 					<tr>
 						<td>1/2 Jambes + maillot simple + aisselles</td>
-						<td>35€</td>
-					</tr>
-					<tr>
-						<td>1/2 Jambes + maillot intégral</td>
-						<td>37€</td>
+						<td>36€</td>
 					</tr>
 					<tr>
 						<td>1/2 Jambes + maillot intégral + aisselles</td>
-						<td>45€</td>
+						<td>46€</td>
 					</tr>
 					<tr>
 						<td>3/4 Jambes + maillot simple ou aisselles</td>
-						<td>34€</td>
+						<td>35€</td>
 					</tr>
 					<tr>
 						<td>3/4 Jambes + maillot simple + aisselles</td>
-						<td>40€</td>
+						<td>41,50€</td>
 					</tr>
 					<tr>
 						<td>3/4 Jambes + maillot intégral + aisselles</td>
-						<td>54€</td>
+						<td>56,50€</td>
 					</tr>
 				</tbody>
 			</table>
@@ -134,19 +130,19 @@ export default function Epilation() {
 				<tbody>
 					<tr>
 						<td><span>Aisselles</span></td>
-						<td><span>12€</span></td>
+						<td><span>12,50€</span></td>
 					</tr>
 					<tr>
 						<td><span>Sourcils</span></td>
-						<td><span>9,50€</span></td>
+						<td><span>10€</span></td>
 					</tr>
 					<tr>
 						<td><span>Torse</span></td>
-						<td><span>19€</span></td>
+						<td><span>20€</span></td>
 					</tr>
 					<tr>
 						<td><span>Torse + ventre</span></td>
-						<td><span>27€</span></td>
+						<td><span>29€</span></td>
 					</tr>
 					<tr>
 						<td><span>Haut du dos + épaules</span></td>
@@ -154,7 +150,7 @@ export default function Epilation() {
 					</tr>
 					<tr>
 						<td><span>Dos complet</span></td>
-						<td><span>28€</span></td>
+						<td><span>28,50€</span></td>
 					</tr>
 				</tbody>
 			</table>

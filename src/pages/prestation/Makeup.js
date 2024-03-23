@@ -26,22 +26,22 @@ export default function Makeup() {
 				<tbody>
 					<tr>
 						<td>Maquillage jour</td>
-						<td>30€</td>
+						<td>31€</td>
 					</tr>
 					<tr>
 						<td>Maquillage soir ou mariée</td>
-						<td>37€</td>
+						<td>39€</td>
 					</tr>
 					<tr>
 						<td>Essai Maquillage</td>
-						<td>25€</td>
+						<td>27€</td>
 					</tr>
 					<tr>
 						<td>Forfait Mariée : 
 							<p>Soin Hydraclean 30min +<br/>épilation des sourcils +
 								<br/>essai  maquilage + maquilage</p>
 						</td>
-						<td>95€</td>
+						<td>100€</td>
 					</tr>
 				</tbody>
 			</table>
